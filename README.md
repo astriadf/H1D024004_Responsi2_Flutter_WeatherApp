@@ -6,6 +6,8 @@
 
 ## Deskripsi Aplikasi
 
+![Link Youtube Penjelasan](https://youtu.be/SRcfSMl1aSQ)
+
 **WeatherApp** adalah aplikasi cuaca yang dikembangkan menggunakan **Flutter** dengan bahasa pemrograman **Dart** dan mengikuti pola arsitektur **MVVM (Model-View-ViewModel)**. Aplikasi ini memungkinkan pengguna untuk mencari kota manapun di dunia, melihat kondisi cuaca terkini, prakiraan cuaca harian, serta menyimpan kota favorit untuk akses cepat.
 
 Semua data cuaca diambil secara langsung dari **Open-Meteo API** dan disimpan secara lokal menggunakan **Hive** untuk mendukung pengalaman pengguna yang persisten.

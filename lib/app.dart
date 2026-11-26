@@ -38,7 +38,7 @@ class WeatherApp extends StatelessWidget {
         ),
       ],
       child: MaterialApp(
-        title: 'Clima Weather',
+        title: 'WeatherApp',
         debugShowCheckedModeBanner: false,
         theme: AppTheme.darkTheme,
         home: const HomeScreen(),
